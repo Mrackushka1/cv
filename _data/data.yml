@@ -63,9 +63,6 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 
-kekw:
-    kekw1: kekw2
-
 education:
     title: Education
     info:
@@ -217,10 +214,10 @@ skills:
       - name: HTML5 & CSS
         level: 50%
 
-      - name: Lua at the level of writing configuration
+      - name: Lua
         level: 85%
 
-      - name: UNIX/Linux OS at the user level
+      - name: UNIX/Linux OS
         level: 60%
 
       - name: SQL
