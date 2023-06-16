@@ -28,6 +28,7 @@ sidebar:
     codewars: Mrackushka
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf:
+    discord: 123
 
     languages:
       title: Languages
@@ -221,7 +222,7 @@ skills:
         level: 20%
 
       - name: SHELL-scripting
-        level: 50%
+        level: 40%
 
       - name: HTML5 & CSS
         level: 50%
