@@ -12,23 +12,22 @@ sidebar:
     avatar: profile.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+    timezone: Kyiv, Ukraine
     email: mrackushka@gmail.com
+    telegram: mrackushka
+    github: mrackushka
+    linkedin: max-makarukha-88b00524a
+    codewars: Mrackushka
     phone:
-    timezone:
     citizenship:
     website: # do not add http://
-    linkedin: max-makarukha-88b00524a
     xing:
-    github: mrackushka
-    telegram: mrackushka
     gitlab:
     bitbucket:
     twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: Mrackushka
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf:
-    discord: 123
 
     languages:
       title: Languages
