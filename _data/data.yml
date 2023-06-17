@@ -91,7 +91,7 @@ experiences:
       - role: Student
         time: 2021 - Present
         company: Kyiv Polytechnic Institute
-        details: |
+        details: >
           Completed programming university courses:
           - Algorithmization and Programming 1:\n
             Learned basic concepts of programming and programming algorithmic structures.
