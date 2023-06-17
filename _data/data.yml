@@ -93,8 +93,8 @@ experiences:
         company: Kyiv Polytechnic Institute
         details: |
           Completed programming university courses:
-          - |
-            Algorithmization and Programming 1:
+          - Algorithmization and Programming 1:
+
             Learned basic concepts of programming and programming algorithmic structures.
           - Programming of Complex Algorithms: Acquired skills in programming complex algorithms.
           - Algorithmization and Programming 2: Focused on procedural programming techniques.
@@ -108,9 +108,8 @@ experiences:
           - Course Work on Algorithmization and Programming: Completed a course project that involved implementing algorithms for finding the shortest path.
           - Course Work on Object-Oriented Programming: Successfully created a tic-tac-toe GUI project focused on object-oriented programming principles and techniques.
 
-
-            - All courses passed with a score of over 90 out of a hundred
-            - Course works were graded with 90 and 100 points.
+          All courses passed with a score of over 90 out of a hundred
+          Course works were graded with 90 and 100 points.
 
 
 
