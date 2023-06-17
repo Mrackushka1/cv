@@ -53,18 +53,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Highly motivated and self-taught junior Python developer seeking an
-      opportunity to apply and expand my skills in a professional work environment.
-      Committed to continuously learning and staying up-to-date with the latest
-      technologies, I aim to contribute effectively to a dynamic development team.
+      Highly motivated and self-taught junior Python developer with a passion for creating efficient and robust applications. I am seeking a challenging role where I can apply my skills and expand my knowledge in a professional work environment. With extensive experience in utilizing a variety of Python modules and libraries, including Cloup, Tkinter, CustomTkinter, NumPy, pandas, as well as essential ones like Itertools, functools, requests, csv, json, and secrets, I am well-equipped to tackle complex programming tasks.
 
-      With proficiency in Vim-mode and Neovim as my preferred IDE, I prioritize
-      efficiency and productivity in my work. Additionally, I have experience
-      utilizing a wide range of Python libraries, including cloup, tkinter,
-      customtkinter, numpy, pandas, django, as well as fundamental ones like
-      itertools, functools, requests, csv, json, secrets etc. By leveraging
-      my expertise with these tools and libraries, I am eager to contribute
-      to the success of projects and deliver high-quality solutions.
+      In addition, I have honed my development workflow by adopting Vim-mode and Neovim as my preferred IDE. This choice allows me to leverage the power of Vim keybindings and boost my productivity. Furthermore, I have a strong affinity for working in the Linux terminal and have built my own tailored terminal environment. This familiarity with the command line empowers me to efficiently navigate and manage projects.
+
+      By combining my expertise in Python libraries, proficiency in Vim-mode and Neovim, and affinity for the Linux terminal, I am eager to contribute to a dynamic development team. I am constantly driven to enhance my skills, stay up-to-date with the latest technologies, and deliver exceptional results in all my endeavors.
 
 education:
     title: Education
