@@ -93,7 +93,8 @@ experiences:
         company: Kyiv Polytechnic Institute
         details: |
           Completed programming university courses:
-          - Algorithmization and Programming 1: Learned basic concepts of programming and programming algorithmic structures.
+          - Algorithmization and Programming 1:
+            Learned basic concepts of programming and programming algorithmic structures.
           - Programming of Complex Algorithms: Acquired skills in programming complex algorithms.
           - Algorithmization and Programming 2: Focused on procedural programming techniques.
           - Design and Analysis of Computational Algorithms: Gained expertise in designing and analyzing computational algorithms.
@@ -102,12 +103,17 @@ experiences:
           - Security of Information Systems: Studied the security aspects of information systems.
           - Database Systems: Developed skills in working with database systems.
 
-          Work Experience:
-          - Course Work on Algorithmization and Programming: Completed a course project that involved implementing algorithms and solving programming challenges.
-          - Course Work on Object-Oriented Programming: Successfully completed a project focused on object-oriented programming principles and techniques.
+          Completed course works:
+          - Course Work on Algorithmization and Programming: Completed a course project that involved implementing algorithms for finding the shortest path.
+          - Course Work on Object-Oriented Programming: Successfully created a tic-tac-toe GUI project focused on object-oriented programming principles and techniques.
 
-            - Bullet point
-            - Bullet point
+            - All courses passed with a score of over 90 out of a hundred
+            - Course works were graded with 90 and 100 points.
+
+
+
+
+            - 
       #- role: Senior Software Engineer
         #time: 2014 - 2015
         #company: Google, London
