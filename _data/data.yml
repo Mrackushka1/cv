@@ -93,7 +93,7 @@ experiences:
         company: Kyiv Polytechnic Institute
         details: |
           Completed programming university courses:
-          - Algorithmization and Programming 1:
+          - Algorithmization and Programming 1:\n
             Learned basic concepts of programming and programming algorithmic structures.
           - Programming of Complex Algorithms: Acquired skills in programming complex algorithms.
           - Algorithmization and Programming 2: Focused on procedural programming techniques.
@@ -216,7 +216,7 @@ skills:
         level: 40%
 
       - name: JS
-        level: 20%
+        level: 15%
 
       - name: Java
         level: 20%
@@ -231,10 +231,10 @@ skills:
         level: 40%
 
       - name: HTML5 & CSS
-        level: 50%
+        level: 45%
 
       - name: SQL
-        level: 60%
+        level: 65%
 
       - name: Git
         level: 50%
