@@ -60,7 +60,7 @@ career-profile:
       By combining my expertise in Python libraries, proficiency in Vim-mode and Neovim, and affinity for the Linux terminal, I am eager to contribute to a dynamic development team. I am constantly driven to enhance my skills, stay up-to-date with the latest technologies, and deliver exceptional results in all my endeavors.
 
       - Motivated self-taught Python developer with diverse library experience.
-      - Efficiently uses Vim-mode and Neovim for increased productivity.
+      - Utilize Vim-mode and Neovim for maximum productivity.
       - Customized Linux terminal environment for streamlined workflow.
 
 education:
@@ -112,6 +112,7 @@ experiences:
           - Course Work on Algorithmization and Programming: Completed a course project that involved implementing algorithms for finding the shortest path.
           - Course Work on Object-Oriented Programming: Successfully created a tic-tac-toe GUI project focused on object-oriented programming principles and techniques.
 
+          Bullet points:
           - All courses passed with a score of over 90 out of a hundred
           - Course works were graded with 90 and 100 points.
 
