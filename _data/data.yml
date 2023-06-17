@@ -135,7 +135,7 @@ projects:
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Cryptosystem
-        link: "#https://github.com/Mrackushka/Cryptosystem.git"
+        link: "https://github.com/Mrackushka/Cryptosystem.git"
         tagline: "Simple extendable CLI Python crypto tool with 5 ciphers made with Cloup library"
 
       #- title: DevStudio
