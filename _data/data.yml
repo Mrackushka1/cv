@@ -66,14 +66,14 @@ education:
       - degree: BSc in Computer Science
         university: National Technical University of Ukraine 'Kyiv Polytechnic Institute'
         time: 2021 - Present
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        #details: |
+          #Describe your study here lorem ipsum dolor sit amet, consectetuer
+          #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          #sociis natoque penatibus et magnis dis parturient montes, nascetur
+          #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          #pretium quis, sem.
+            #- Bullet point
+            #- Bullet point
       #- degree: BSc in Applied Mathematics
         #university: Bristol University
         #time: 2007 - 2011
@@ -129,14 +129,14 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #intro: >
+      #You can list your side projects in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Cryptosystem
+        link: "#https://github.com/Mrackushka/Cryptosystem.git"
+        tagline: "Simple extendable CLI Python crypto tool with 5 ciphers made with Cloup library"
 
       #- title: DevStudio
         #link: "#"
