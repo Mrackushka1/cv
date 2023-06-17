@@ -53,12 +53,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Highly motivated and self-taught junior Python developer seeking an
+      opportunity to apply and expand my skills in a professional work
+      environment. Committed to continuously learning and staying up-to-date
+      with the latest technologies in order to contribute effectively to a
+      dynamic development team.
 
 education:
     title: Education
@@ -90,20 +89,24 @@ experiences:
     title: Experiences
     info:
       - role: None at this time 
-        #time: 2015 - Present
-        #company: Startup Hubs, San Francisco
-        #details: |
-          #Describe your role here lorem ipsum dolor sit amet, consectetuer
-          #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          #Cum sociis natoque penatibus et magnis dis parturient montes,
-          #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          #error sit voluptatem accusantium doloremque laudantium, totam rem
-          #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          #architecto beatae vitae dicta sunt explicabo.
-            #- Bullet point
-            #- Bullet point
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        details: |
+            Algorithmization and programming 1. Basic concepts of programming
+            Programming algorithmic structures
+            Programming of complex algorithms
+            Algorithmization and programming 2. Procedural programming
+            Design and analysis of computational algorithms
+            Web technologies and web design
+            Object-oriented programming
+            Security of information systems
+            Database systems
+
+            Course work on algorithmization and programming
+            Course work on object-oriented programming
+
+            - Bullet point
+            - Bullet point
       #- role: Senior Software Engineer
         #time: 2014 - 2015
         #company: Google, London
