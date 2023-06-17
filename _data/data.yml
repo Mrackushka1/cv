@@ -97,15 +97,16 @@ experiences:
             Learned basic concepts of programming and programming algorithmic structures.
           - Programming of Complex Algorithms: Acquired skills in programming complex algorithms.
           - Algorithmization and Programming 2: Focused on procedural programming techniques.
-          - Design and Analysis of Computational Algorithms: Gained expertise in designing and analyzing computational algorithms.
+          - Design and Analysis of Computational Algorithms: Gained expertise in designing and analyzing efficient computational algorithms.
           - Web Technologies and Web Design: Explored various web technologies and gained knowledge of web design principles.
           - Object-Oriented Programming: Mastered the concepts and principles of object-oriented programming.
           - Security of Information Systems: Studied the security aspects of information systems.
-          - Database Systems: Developed skills in working with database systems.
+          - Database Systems: Developed skills in working with SQL database systems.
 
           Completed course works:
           - Course Work on Algorithmization and Programming: Completed a course project that involved implementing algorithms for finding the shortest path.
           - Course Work on Object-Oriented Programming: Successfully created a tic-tac-toe GUI project focused on object-oriented programming principles and techniques.
+
 
             - All courses passed with a score of over 90 out of a hundred
             - Course works were graded with 90 and 100 points.
@@ -113,7 +114,6 @@ experiences:
 
 
 
-            - 
       #- role: Senior Software Engineer
         #time: 2014 - 2015
         #company: Google, London
