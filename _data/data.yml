@@ -54,10 +54,16 @@ career-profile:
     title: Career Profile
     summary: |
       Highly motivated and self-taught junior Python developer seeking an
-      opportunity to apply and expand my skills in a professional work
-      environment. Committed to continuously learning and staying up-to-date
-      with the latest technologies in order to contribute effectively to a
-      dynamic development team.
+      opportunity to apply and expand my skills in a professional work environment.
+      Committed to continuously learning and staying up-to-date with the latest
+      technologies, I aim to contribute effectively to a dynamic development team.
+      With proficiency in Vim-mode and Neovim as my preferred IDE, I prioritize
+      efficiency and productivity in my work. Additionally, I have experience
+      utilizing a wide range of Python libraries, including cloup, tkinter,
+      customtkinter, numpy, pandas, django, as well as fundamental ones like
+      itertools, functools, requests, csv, json, secrets etc. By leveraging
+      my expertise with these tools and libraries, I am eager to contribute
+      to the success of projects and deliver high-quality solutions.
 
 education:
     title: Education
