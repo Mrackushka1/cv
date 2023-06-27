@@ -1,6 +1,7 @@
 sidebar:
     about: False
     education: True
+    avatar: profile.png
     name: Maksym Makarukha
     tagline: Python Developer
     timezone: Kyiv, Ukraine
